@@ -8,11 +8,11 @@ Flomo 瀑布流视图脚本
 
 ## 安装方法
 
-1. 安装Tampermonkey
+### 1. 安装Tampermonkey
 
 访问https://www.tampermonkey.net ，或直接在浏览器扩展商店搜索，支持Chrome/Edge/Firefox/Opera）
 
-2. 安装脚本
+### 2. 安装脚本
 
 点击链接，Tampermonkey 会自动提示安装：
 
@@ -30,7 +30,7 @@ Flomo 瀑布流视图脚本
 
 <img width="3840" height="1897" alt="image" src="https://github.com/user-attachments/assets/7965ee5c-f027-4033-84d7-25e312535fc8" />
 
-## 作者
+## 关注作者
 
 小红书：山形依旧
 
