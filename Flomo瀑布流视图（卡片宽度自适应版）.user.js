@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Flomo 瀑布流视图（卡片宽度自适应版）
-// @namespace    https://gist.github.com/chiljourney001
+// @namespace    https://github.com/chiljourney001
 // @version      22.3
 // @description  移除宽度限制，充分利用屏幕空间
 // @author       @山形依旧
