@@ -16,7 +16,7 @@ Flomo 瀑布流视图脚本
 
 点击链接，Tampermonkey 会自动提示安装：
 
-【Flomo瀑布流视图.user.js】：https://github.com/chiljourney001/flomo-masonry/blob/main/Flomo%E7%80%91%E5%B8%83%E6%B5%81%E8%A7%86%E5%9B%BE%20.user.js
+【Flomo瀑布流视图.user.js】：https://github.com/chiljourney001/flomo-masonry/raw/refs/heads/main/Flomo%E7%80%91%E5%B8%83%E6%B5%81%E8%A7%86%E5%9B%BE.user.js
 
 【Flomo瀑布流视图（卡片宽度自适应版）.user.js】：https://github.com/chiljourney001/flomo-masonry/raw/refs/heads/main/Flomo%E7%80%91%E5%B8%83%E6%B5%81%E8%A7%86%E5%9B%BE%EF%BC%88%E5%8D%A1%E7%89%87%E5%AE%BD%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94%E7%89%88%EF%BC%89.user.js
 
