@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Flomo 瀑布流布局 
-// @namespace    http://tampermonkey.net/
+// @name         Flomo 瀑布流视图 
+// @namespace    https://github.com/chiljourney001
 // @version      22.0
-// @description  完美瀑布流：全屏 + 完整加载 + 流畅滚动
+// @description  瀑布流视图，根据窗口宽度自动调整列数
 // @author       @山形依旧
 // @match        https://v.flomoapp.com/*
 // @match        https://flomoapp.com/*
@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    const MAX_COLUMNS = 2;
+    const MAX_COLUMNS = 3;
     const MIN_COL_WIDTH = 300;
     const GAP = 16;
     const SIDEBAR_WIDTH = 200;
